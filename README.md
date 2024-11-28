@@ -7,16 +7,17 @@ It's nice to meet you! I'm **Pedro**, your new friend (I hope).
 
 #### 
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+[![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 
 
 #### Get in touch with me!
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-la-goncalves/)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](/https://www.linkedin.com/in/pedro-la-goncalves/)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?logo=ko-fi&logoColor=white)]([#](https://ko-fi.com/peluargo))
 
 ##
 
-### About me
+### About me ✍
 
 #### My career
 I have worked professionally as a systems developer for 7 years as a developer specializing in front-end, with a lot of experience in structuring microservices and REST APIs, and I excel in managing agile teams using methodologies such as Kanban and Scrum.
