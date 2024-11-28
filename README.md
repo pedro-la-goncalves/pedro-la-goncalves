@@ -10,6 +10,10 @@ It's nice to meet you! I'm **Pedro**, your new friend (I hope).
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
+
+#### Get in touch with me!
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-la-goncalves/)
+
 ##
 
 ### About me
@@ -23,6 +27,3 @@ Currently, I am also very interested in the area of ​​project management and
 
 #### Peronal life
 I also do some coding for fun (oh wow how original), but I'm trying to spend more time away from my desktop. When I'm not with my family, I'm either with my friends, watching a movie or playing some boardgames 🎲
-
-#### Get in touch with me!
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-la-goncalves/)
