@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hey! What are you doing here? 👀
 
-<!--
-**pedro-la-goncalves/pedro-la-goncalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+It's nice to meet you! I'm **Pedro**, your new friend (I hope).
 
-Here are some ideas to get you started:
+#### 💻 Working as Software Developer for about 8 years
+#### 📚 Graduating in Software Analysis and Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+##
+
+### About me
+
+#### My career
+I have worked professionally as a systems developer for 7 years as a developer specializing in front-end, with a lot of experience in structuring microservices and REST APIs, and I excel in managing agile teams using methodologies such as Kanban and Scrum.
+
+I have already participated in the development of different types of applications in multiple languages ​​such as Java, Javascript and PHP, such as LMS platforms, ERP systems aimed at the education and travel areas, and integrative systems with hotel and travel services.
+
+Currently, I am also very interested in the area of ​​project management and people management, always seeking to carry out small projects to apply new knowledge, in addition to sharing knowledge with my friends and co-workers.
+
+#### Peronal life
+I also do some coding for fun (oh wow how original), but I'm trying to spend more time away from my desktop. When I'm not with my family, I'm either with my friends, watching a movie or playing some boardgames 🎲
+
+#### Get in touch with me!
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-la-goncalves/)
