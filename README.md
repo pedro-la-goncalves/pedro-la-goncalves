@@ -29,7 +29,7 @@ Currently, I am also very interested in the area of ​​project management and
 #### Peronal life
 I also do some coding for fun (oh wow how original), but I'm trying to spend more time away from my desktop. When I'm not with my family, I'm either with my friends, watching a movie or playing some boardgames 🎲
 
----
+##
 
 > [!WARNING]  
 > I'm currently reorganizing my whole github and creating a whole bunch of new projects, so it my look a little messi at first but it will be done ASAP 😅
