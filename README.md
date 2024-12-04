@@ -29,6 +29,9 @@ Currently, I am also very interested in the area of ​​project management and
 #### Peronal life
 I also do some coding for fun (oh wow how original), but I'm trying to spend more time away from my desktop. When I'm not with my family, I'm either with my friends, watching a movie or playing some boardgames 🎲
 
+### In what project am I currently working on?
+I'm working on an application where agile teams can use some tools for free, such as a team structure organizer thingy. The idea is to create a bunch of microservices and use them for this application, but I have a long way to go. 
+
 ##
 
 > [!WARNING]  
